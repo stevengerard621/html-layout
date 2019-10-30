@@ -1,0 +1,64 @@
+
+body {
+
+}
+
+.first-container {
+    background-color: gainsboro;
+    height: 15vh;
+    width: 100%;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+
+.first-inner-container {
+    background-color: cornflowerblue;
+    height: 80px;
+    width: 80px;
+}
+
+.second-container {
+    background-color: whitesmoke;
+    height: 25vh;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+p {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.third-container {
+    background-color: cornflowerblue;
+    height: 15vh;
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.fourth-container {
+    background-color: seagreen;
+    height: 15vh;
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.fifth-container {
+    background-color: darkseagreen;
+    height: 15vh;
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.sixth-container {
+    background-color: gold;
+    height: 15vh;
+    width: 100%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
